@@ -1,2 +1,2 @@
 # neuralNetworkFromScratch
-A simple feed-forward neural network built entirely from scratch - numpy, pandas, and matplotlib only.
+A simple feed-forward neural network with SGD built entirely from scratch: numpy only.
